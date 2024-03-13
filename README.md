@@ -6,3 +6,8 @@ This repository includes images, code, circuit diagrams, and gerber files which 
 The next steps in the project include the printing of a V2 board which includes breakout pins to allow for the easy flashing of updated .ino files for the Arduino, as well as the implimentation of frequency analysis techniques to better process the IMU signal into countable steps, and the design and printing of a custom case.
 
 ![image](https://github.com/nicolas-sidebottom/Electronic_Ranger_Beads/assets/81268057/93577920-ea10-4513-8e75-3dc7319fb956)
+
+![IMG_2228 thumbnail](https://github.com/nicolas-sidebottom/Electronic_Ranger_Beads/assets/81268057/48cb90a5-dbf3-47eb-a718-c85bc8874566)
+
+![IMG_2229 thumbnail](https://github.com/nicolas-sidebottom/Electronic_Ranger_Beads/assets/81268057/df026f5d-9c0f-4aa2-9001-01eed642b0f8)
+
